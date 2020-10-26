@@ -1,0 +1,2 @@
+debian/bin/kolibricoind usr/bin
+src/kolibricoind usr/lib/kolibricoin

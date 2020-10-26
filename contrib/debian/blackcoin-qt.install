@@ -1,0 +1,5 @@
+kolibricoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/kolibricoin-qt.desktop usr/share/applications
+debian/kolibricoin-qt.protocol usr/share/kde4/services/
